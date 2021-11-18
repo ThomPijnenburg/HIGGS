@@ -6,7 +6,7 @@ authors = ["Thom Pijnenburg"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "3.7.9"
+python = "^3.7.8"
 pandas = "^1.3.4"
 ray = {extras = ["tune"], version = "^1.8.0"}
 tqdm = "^4.62.3"
