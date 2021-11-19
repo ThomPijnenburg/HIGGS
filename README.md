@@ -2,7 +2,7 @@
 
 The Higgs boson is one of the elementary particles in the [Standard Model (SM) of Particle Physics](https://en.wikipedia.org/wiki/Standard_Model). It is produced by quantum excitations of the Higgs field, following the principles of Quantum Field Theory. Its role in the SM is crucial as it is proposed to explain how some particles acquire mass. Specifically, bosons have properties as described by the Higgs mechanism. The Higgs particle is very unstable and hence decays into other particles almost immediately.
 
-In the Large Hadron Collider (LHC) we can search for exotic particles like the higgs by combing through the collision data. Of the roughly $10^{11}$ collisions produced per hour, approximately $300$ result in a Higgs event [[1](#[1])]. Finding the _signal_ events (with Higgs boson) among the _background_ events is a challenging task. 
+In the Large Hadron Collider (LHC) we can search for exotic particles like the higgs by combing through the collision data. Of the roughly 10^11 collisions produced per hour, approximately 300 result in a Higgs event [[1](#[1])]. Finding the _signal_ events (with Higgs boson) among the _background_ events is a challenging task. 
 
 In this project we will look at machine learning methods to assist in the discovery of signal events in the collision data.
 
@@ -22,4 +22,4 @@ The HIGGS dataset [[2](#[2])] is available on the [UCI archive](https://archive.
 ## References
 
 * <a name="[1]">[1]</a> Baldi, P., P. Sadowski, and D. Whiteson. “Searching for Exotic Particles in High-energy Physics with Deep Learning.” Nature Communications 5 (July 2, 2014).
-* <a name="[2]">[1]</a> https://archive.ics.uci.edu/ml/datasets/HIGGS 
+* <a name="[2]">[2]</a> https://archive.ics.uci.edu/ml/datasets/HIGGS 
